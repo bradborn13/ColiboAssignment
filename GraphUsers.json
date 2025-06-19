@@ -1,0 +1,145 @@
+﻿{
+  "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users",
+  "value": [
+    {
+      "businessPhones": [
+      ],
+      "displayName": "Hans Peter Henriksen",
+      "givenName": "Hans Peter",
+      "jobTitle": null,
+      "mail": null,
+      "mobilePhone": "+45 8765287",
+      "officeLocation": null,
+      "preferredLanguage": null,
+      "surname": "Henriksen",
+      "userPrincipalName": "hph@colibotest.onmicrosoft.com",
+      "id": "86d6f201-8355-4920-9a6c-8e8e2a35eadd"
+    },
+    {
+      "businessPhones": [
+      ],
+      "displayName": "Jens Jensen",
+      "givenName": "Jens",
+      "jobTitle": "CEO",
+      "mail": null,
+      "mobilePhone": "+45 5533994",
+      "officeLocation": null,
+      "preferredLanguage": null,
+      "surname": "Jensen",
+      "userPrincipalName": "jj@colibotest.onmicrosoft.com",
+      "id": "b7b73ae2-7b57-4adb-8259-f4c71fb02765"
+    },
+    {
+      "businessPhones": [
+      ],
+      "displayName": "Jannie Kristensen",
+      "givenName": "Jannie",
+      "jobTitle": null,
+      "mail": null,
+      "mobilePhone": null,
+      "officeLocation": null,
+      "preferredLanguage": null,
+      "surname": "ristensen",
+      "userPrincipalName": "jk@colibotest.onmicrosoft.com",
+      "id": "401d8c64-9c07-48f1-bd2c-8850c3ea5f64"
+    },
+    {
+      "businessPhones": [
+      ],
+      "displayName": "Karen Jensen",
+      "givenName": "Karen",
+      "jobTitle": "HR manager",
+      "mail": null,
+      "mobilePhone": "+45 8765290",
+      "officeLocation": null,
+      "preferredLanguage": null,
+      "surname": "Jensen",
+      "userPrincipalName": "kj@colibotest.onmicrosoft.com",
+      "id": "5429c1ae-c91d-449e-a63e-74e37deb1ad3"
+    },
+    {
+      "businessPhones": [
+      ],
+      "displayName": "Lene Kristensen",
+      "givenName": "Lene",
+      "jobTitle": null,
+      "mail": null,
+      "mobilePhone": null,
+      "officeLocation": null,
+      "preferredLanguage": null,
+      "surname": "Kristensen",
+      "userPrincipalName": "lk@colibotest.onmicrosoft.com",
+      "id": "56eb348f-4f46-477e-92f2-36de5044c9e4"
+    },
+    {
+      "businessPhones": [
+      ],
+      "displayName": "Linda Rasmussen",
+      "givenName": "Linda",
+      "jobTitle": "Serviceassistent",
+      "mail": null,
+      "mobilePhone": "+45 8765286",
+      "officeLocation": null,
+      "preferredLanguage": null,
+      "surname": "Rasmussen",
+      "userPrincipalName": "lr@colibotest.onmicrosoft.com",
+      "id": "5c838072-8e21-474e-97bf-807738099240"
+    },
+    {
+      "businessPhones": [
+      ],
+      "displayName": "Mads Foersom",
+      "givenName": "Mads",
+      "jobTitle": null,
+      "mail": null,
+      "mobilePhone": null,
+      "officeLocation": null,
+      "preferredLanguage": null,
+      "surname": "Foersom",
+      "userPrincipalName": "mf_colibo.com#EXT#@colibotest.onmicrosoft.com",
+      "id": "f8486561-5c0b-4d38-91b6-8be84ef67126"
+    },
+    {
+      "businessPhones": [
+      ],
+      "displayName": "Ole Sven Eriksen",
+      "givenName": "Ole",
+      "jobTitle": null,
+      "mail": null,
+      "mobilePhone": null,
+      "officeLocation": null,
+      "preferredLanguage": null,
+      "surname": "Sven Eriksen",
+      "userPrincipalName": "ose@colibotest.onmicrosoft.com",
+      "id": "eba9c190-1b2b-4688-9f5f-7ca1aefeb6db"
+    },
+    {
+      "businessPhones": [
+      ],
+      "displayName": "Pia Nielsen",
+      "givenName": "Pia",
+      "jobTitle": null,
+      "mail": null,
+      "mobilePhone": null,
+      "officeLocation": null,
+      "preferredLanguage": null,
+      "surname": "Nielsen",
+      "userPrincipalName": "pn@colibotest.onmicrosoft.com",
+      "id": "c6cee6cc-792b-466c-bcd7-8a29043ce371"
+    },
+    {
+      "businessPhones": [
+      ],
+      "displayName": "Per Sorensen",
+      "givenName": "Per",
+      "jobTitle": null,
+      "mail": null,
+      "mobilePhone": null,
+      "officeLocation": null,
+      "preferredLanguage": null,
+      "surname": "Sorensen",
+      "userPrincipalName": "ps@colibotest.onmicrosoft.com",
+      "id": "0f539406-f85b-4844-a350-3810c9f152de"
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "Users": [
+    {
+      "BusinessPhones": [],
+      "FullName": "Pia Nielsen",
+      "JobTitle": "CFO",
+      "Mail": [],
+      "MobilePhone": "\u002B45 8765284",
+      "OfficeLocation": "",
+      "PreferredLanguage": "",
+      "Email": "pn@colibotest.onmicrosoft.com",
+      "Id": "c6cee6cc-792b-466c-bcd7-8a29043ce371",
+      "City": "Aarhus",
+      "Address": "Testvej 2"
+    },
+    {
+      "BusinessPhones": [],
+      "FullName": "Lene Kristensen",
+      "JobTitle": "Bogholder",
+      "Mail": [],
+      "MobilePhone": "\u002B45 9865383",
+      "OfficeLocation": "",
+      "PreferredLanguage": "",
+      "Email": "lk@colibotest.onmicrosoft.com",
+      "Id": "56eb348f-4f46-477e-92f2-36de5044c9e4",
+      "City": "Aarhus",
+      "Address": "Testvej 3"
+    },
+    {
+      "BusinessPhones": [],
+      "FullName": "Per S\u00F8rensen",
+      "JobTitle": "Service manager",
+      "Mail": [],
+      "MobilePhone": "\u002B45 5562244",
+      "OfficeLocation": "",
+      "PreferredLanguage": "",
+      "Email": "ps@colibotest.onmicrosoft.com",
+      "Id": "0f539406-f85b-4844-a350-3810c9f152de",
+      "City": "Aarhus",
+      "Address": "Testvej 4"
+    },
+    {
+      "BusinessPhones": [],
+      "FullName": "Ole Sven Eriksen",
+      "JobTitle": "Serviceassistent",
+      "Mail": [],
+      "MobilePhone": "\u002B45 8765285",
+      "OfficeLocation": "",
+      "PreferredLanguage": "",
+      "Email": "ose@colibotest.onmicrosoft.com",
+      "Id": "eba9c190-1b2b-4688-9f5f-7ca1aefeb6db",
+      "City": "Aarhus",
+      "Address": "Testvej 5"
+    },
+    {
+      "BusinessPhones": [],
+      "FullName": "Linda Rasmussen",
+      "JobTitle": "Serviceassistent",
+      "Mail": [],
+      "MobilePhone": "\u002B45 8765286",
+      "OfficeLocation": "",
+      "PreferredLanguage": "",
+      "Email": "lr@colibotest.onmicrosoft.com",
+      "Id": "5c838072-8e21-474e-97bf-807738099240",
+      "City": "Aarhus",
+      "Address": "Testvej 6"
+    },
+    {
+      "BusinessPhones": [],
+      "FullName": "Hans Peter Henriksen",
+      "JobTitle": "Serviceassistent",
+      "Mail": [],
+      "MobilePhone": "\u002B45 8765287",
+      "OfficeLocation": "",
+      "PreferredLanguage": "",
+      "Email": "hph@colibotest.onmicrosoft.com",
+      "Id": "86d6f201-8355-4920-9a6c-8e8e2a35eadd",
+      "City": "Aarhus",
+      "Address": "Testvej 7"
+    },
+    {
+      "BusinessPhones": [],
+      "FullName": "Karen Jensen",
+      "JobTitle": "HR manager",
+      "Mail": [],
+      "MobilePhone": "\u002B45 8765290",
+      "OfficeLocation": "",
+      "PreferredLanguage": "",
+      "Email": "kj@colibotest.onmicrosoft.com",
+      "Id": "5429c1ae-c91d-449e-a63e-74e37deb1ad3",
+      "City": "Aarhus",
+      "Address": "Testvej 8"
+    },
+    {
+      "BusinessPhones": [],
+      "FullName": "Jannie Kristensen",
+      "JobTitle": "Salgskonsulent",
+      "Mail": [],
+      "MobilePhone": "",
+      "OfficeLocation": "",
+      "PreferredLanguage": "",
+      "Email": "jk@colibotest.onmicrosoft.com",
+      "Id": "401d8c64-9c07-48f1-bd2c-8850c3ea5f64",
+      "City": "Aarhus",
+      "Address": "Testvej 9"
+    },
+    {
+      "BusinessPhones": null,
+      "FullName": "Jens J. Jensen",
+      "JobTitle": "CEO",
+      "Mail": [
+        "jj@colibotest.dk"
+      ],
+      "MobilePhone": "",
+      "OfficeLocation": null,
+      "PreferredLanguage": "",
+      "Email": "jj@colibotest.dk",
+      "Id": "1018",
+      "City": "Aarhus",
+      "Address": "Testvej 1"
+    },
+    {
+      "BusinessPhones": null,
+      "FullName": "Rasmus Boll",
+      "JobTitle": "Salgskonsulent",
+      "Mail": [
+        "rb@colibotest.dk"
+      ],
+      "MobilePhone": "",
+      "OfficeLocation": null,
+      "PreferredLanguage": "",
+      "Email": "rb@colibotest.dk",
+      "Id": "1034",
+      "City": "Aarhus",
+      "Address": "Testvej 10"
+    },
+    {
+      "BusinessPhones": [],
+      "FullName": "Jens Jensen",
+      "JobTitle": "CEO",
+      "Mail": [
+        null
+      ],
+      "MobilePhone": "\u002B45 5533994",
+      "OfficeLocation": null,
+      "PreferredLanguage": null,
+      "Email": "jj@colibotest.onmicrosoft.com",
+      "Id": "b7b73ae2-7b57-4adb-8259-f4c71fb02765",
+      "City": null,
+      "Address": null
+    },
+    {
+      "BusinessPhones": [],
+      "FullName": "Mads Foersom",
+      "JobTitle": null,
+      "Mail": [
+        null
+      ],
+      "MobilePhone": null,
+      "OfficeLocation": null,
+      "PreferredLanguage": null,
+      "Email": "mf_colibo.com#EXT#@colibotest.onmicrosoft.com",
+      "Id": "f8486561-5c0b-4d38-91b6-8be84ef67126",
+      "City": null,
+      "Address": null
+    },
+    {
+      "BusinessPhones": null,
+      "FullName": "Curcuta Lucian",
+      "JobTitle": "Softwareudvikler",
+      "Mail": [
+        "luciancosntC@gmail.com"
+      ],
+      "MobilePhone": "\u002B45 52720543",
+      "OfficeLocation": null,
+      "PreferredLanguage": "",
+      "Email": "luciancosntC@gmail.com",
+      "Id": "1059",
+      "City": "Aarhus",
+      "Address": "Mollehatten20"
+    },
+    {
+      "BusinessPhones": null,
+      "FullName": "Curcuta Lucian",
+      "JobTitle": "Softwareudvikler",
+      "Mail": [
+        "luciancosntC@gmail.com"
+      ],
+      "MobilePhone": "\u002B45 52720543",
+      "OfficeLocation": null,
+      "PreferredLanguage": "",
+      "Email": "luciancosntC@gmail.com",
+      "Id": "1059",
+      "City": "Aarhus",
+      "Address": "Mollehatten20"
+    }
+  ]
+}
